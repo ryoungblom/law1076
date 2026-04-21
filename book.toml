@@ -2,3 +2,5 @@
 title = "Test Book"
 authors = ["ryoungblom"]
 language = "en"
+[output.html]
+site-url = "/law1076/"
